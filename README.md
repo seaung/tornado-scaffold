@@ -36,7 +36,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/tornado-scaffold.git
+git clone https://github.com/seaung/tornado-scaffold.git
 cd tornado-scaffold
 ```
 
